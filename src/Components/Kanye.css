@@ -1,0 +1,12 @@
+#image-container {
+  display: flex;
+  object-fit: contain;
+  height: 300px;
+  width: 400px;
+}
+
+.kanye-image {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
